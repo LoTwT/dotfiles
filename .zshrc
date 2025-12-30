@@ -1,8 +1,5 @@
 export ZSH="$HOME/.oh-my-zsh"
 
-# ID related
-export GSAP_TOKEN=d6f69a1e-48a3-4ddc-af82-3df7c11fbb72
-
 export https_proxy=http://127.0.0.1:7897 http_proxy=http://127.0.0.1:7897 all_proxy=socks5://127.0.0.1:7897
 
 export PATH=/bin:/usr/bin:/usr/local/bin:${PATH}
